@@ -1,0 +1,7 @@
+#Sat Feb 18 22:41:22 CST 2017
+base.0=C\:\\Users\\wasia\\AndroidStudioProjects\\EasyReceipts\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ff794c8ddb19b4e6205e02f99d1ecc77e6d4f9c6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\wasia\\AndroidStudioProjects\\EasyReceipts\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b53cb7991fcfbceaec226054fe546e5d44b8d0ec\\classes.dex
+base.1=C\:\\Users\\wasia\\AndroidStudioProjects\\EasyReceipts\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b53cb7991fcfbceaec226054fe546e5d44b8d0ec
+file.0=C\:\\Users\\wasia\\AndroidStudioProjects\\EasyReceipts\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ff794c8ddb19b4e6205e02f99d1ecc77e6d4f9c6\\classes.dex

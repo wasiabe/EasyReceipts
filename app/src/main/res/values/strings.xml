@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="read_barcode">Read Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+    <string name="receipt_no">Receipt No</string>
+    <string name="receipt_date">Receipt Date</string>
+    <string name="random_code">Random Code</string>
+    <string name="sales_amount_hex">Sales Amount (Hex)</string>
+    <string name="total_amount_hex">Total Amount (Hex)</string>
+    <string name="buyer_ein">EIN (Buyer)</string>
+    <string name="saler_ein">EIN (Saler)</string>
+    <string name="encrypt_code">Encrypt Code</string>
+    <string name="sales_amount">Sales_amount</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="item_name">Item Name</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="item_quantity">Item Quantity</string>
+    <string name="item_count">Item Count</string>
+    <string name="total_item_count">Total Items</string>
+    <string name="saler_data">Saler Data</string>
+    <string name="chinese_encode">Chinese Encode</string>
+</resources>

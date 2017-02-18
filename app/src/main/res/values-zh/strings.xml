@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="auto_focus">自動對焦</string>
+    <string name="barcode_error">\"Barcode 掃瞄失敗: %1$s\"</string>
+    <string name="barcode_failure">未讀掃瞄到 Barcode</string>
+    <string name="barcode_success">Barcode 掃瞄成功</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="ok">好</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="read_barcode">掃瞄 Barcode</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="use_flash">使用閃光燈</string>
+    <string name="buyer_ein">買方統一編號</string>
+    <string name="encrypt_code">加密驗證資訊</string>
+    <string name="random_code">隨機碼</string>
+    <string name="receipt_no">發票字軌</string>
+    <string name="receipt_date">發票開立日期</string>
+    <string name="saler_ein">賣方統一編號</string>
+    <string name="sales_amount_hex">銷售額(Hex)</string>
+    <string name="total_amount_hex">總計額(Hex)</string>
+    <string name="sales_amount">銷售額</string>
+    <string name="total_amount">總計額</string>
+    <string name="unit_price">單價</string>
+    <string name="item_name">品名</string>
+    <string name="item_quantity">數量</string>
+    <string name="total_item_count">品目總筆數</string>
+    <string name="saler_data">賣方應用資訊</string>
+    <string name="item_count">品目筆數</string>
+    <string name="chinese_encode">中文編碼</string>
+</resources>
