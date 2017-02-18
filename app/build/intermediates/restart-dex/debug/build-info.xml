@@ -5,34 +5,27 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="84601473615605"
+    timestamp="85594045286547"
     token="-5826814850308892069"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="410" />
+        duration="2567" />
     <task
         name="instant-run-dex"
-        duration="798" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="71" />
+        duration="68" />
     <task
         name="verifier"
-        duration="27" />
+        duration="8" />
 
     <artifact
-        location="C:\Users\wasia\AndroidStudioProjects\EasyReceipts\barcode-reader\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\Users\wasia\AndroidStudioProjects\EasyReceipts\barcode-reader\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build
-        timestamp="81749626642321"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\wasia\AndroidStudioProjects\EasyReceipts\barcode-reader\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
     <build
         timestamp="1574732245793938"
         verifier="BINARY_MANIFEST_FILE_CHANGE" >

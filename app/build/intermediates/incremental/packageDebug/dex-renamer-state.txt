@@ -1,4 +1,4 @@
-#Sat Feb 18 22:41:22 CST 2017
+#Sat Feb 18 23:45:23 CST 2017
 base.0=C\:\\Users\\wasia\\AndroidStudioProjects\\EasyReceipts\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ff794c8ddb19b4e6205e02f99d1ecc77e6d4f9c6
 renamed.1=classes2.dex
 renamed.0=classes.dex

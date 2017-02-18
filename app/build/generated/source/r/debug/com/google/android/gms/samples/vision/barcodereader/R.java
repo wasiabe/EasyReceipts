@@ -3367,35 +3367,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.google.android.gms.samples.vision.barcodereader:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.google.android.gms.samples.vision.barcodereader:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.google.android.gms.samples.vision.barcodereader:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.google.android.gms.samples.vision.barcodereader:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.google.android.gms.samples.vision.barcodereader:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.google.android.gms.samples.vision.barcodereader:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.google.android.gms.samples.vision.barcodereader:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.google.android.gms.samples.vision.barcodereader:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.google.android.gms.samples.vision.barcodereader:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.google.android.gms.samples.vision.barcodereader:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.google.android.gms.samples.vision.barcodereader:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.google.android.gms.samples.vision.barcodereader:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.google.android.gms.samples.vision.barcodereader:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.google.android.gms.samples.vision.barcodereader:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.google.android.gms.samples.vision.barcodereader:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.google.android.gms.samples.vision.barcodereader:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.google.android.gms.samples.vision.barcodereader:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.google.android.gms.samples.vision.barcodereader:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.google.android.gms.samples.vision.barcodereader:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.google.android.gms.samples.vision.barcodereader:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.google.android.gms.samples.vision.barcodereader:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.google.android.gms.samples.vision.barcodereader:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.google.android.gms.samples.vision.barcodereader:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.google.android.gms.samples.vision.barcodereader:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.google.android.gms.samples.vision.barcodereader:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.google.android.gms.samples.vision.barcodereader:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.google.android.gms.samples.vision.barcodereader:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.google.android.gms.samples.vision.barcodereader:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.google.android.gms.samples.vision.barcodereader:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.jengluelee.android.easyreceipts:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.jengluelee.android.easyreceipts:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.jengluelee.android.easyreceipts:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.jengluelee.android.easyreceipts:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.jengluelee.android.easyreceipts:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.jengluelee.android.easyreceipts:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.jengluelee.android.easyreceipts:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.jengluelee.android.easyreceipts:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.jengluelee.android.easyreceipts:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.jengluelee.android.easyreceipts:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.jengluelee.android.easyreceipts:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.jengluelee.android.easyreceipts:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.jengluelee.android.easyreceipts:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.jengluelee.android.easyreceipts:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.jengluelee.android.easyreceipts:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.jengluelee.android.easyreceipts:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.jengluelee.android.easyreceipts:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.jengluelee.android.easyreceipts:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.jengluelee.android.easyreceipts:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.jengluelee.android.easyreceipts:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.jengluelee.android.easyreceipts:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.jengluelee.android.easyreceipts:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.jengluelee.android.easyreceipts:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.jengluelee.android.easyreceipts:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.jengluelee.android.easyreceipts:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.jengluelee.android.easyreceipts:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.jengluelee.android.easyreceipts:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.jengluelee.android.easyreceipts:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.jengluelee.android.easyreceipts:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3438,17 +3438,17 @@ containing a value of this type.
             0x7f01005f
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#background}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:background
+          @attr name com.jengluelee.android.easyreceipts:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3456,11 +3456,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:backgroundSplit
+          @attr name com.jengluelee.android.easyreceipts:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3468,11 +3468,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:backgroundStacked
+          @attr name com.jengluelee.android.easyreceipts:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3484,11 +3484,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetEnd
+          @attr name com.jengluelee.android.easyreceipts:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3500,11 +3500,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetEndWithActions
+          @attr name com.jengluelee.android.easyreceipts:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3516,11 +3516,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetLeft
+          @attr name com.jengluelee.android.easyreceipts:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3532,11 +3532,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetRight
+          @attr name com.jengluelee.android.easyreceipts:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3548,11 +3548,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetStart
+          @attr name com.jengluelee.android.easyreceipts:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3564,21 +3564,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetStartWithNavigation
+          @attr name com.jengluelee.android.easyreceipts:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:customNavigationLayout
+          @attr name com.jengluelee.android.easyreceipts:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3596,21 +3596,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:displayOptions
+          @attr name com.jengluelee.android.easyreceipts:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:divider
+          @attr name com.jengluelee.android.easyreceipts:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3622,11 +3622,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:elevation
+          @attr name com.jengluelee.android.easyreceipts:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#height}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3638,11 +3638,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:height
+          @attr name com.jengluelee.android.easyreceipts:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3652,51 +3652,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:hideOnContentScroll
+          @attr name com.jengluelee.android.easyreceipts:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:homeAsUpIndicator
+          @attr name com.jengluelee.android.easyreceipts:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:homeLayout
+          @attr name com.jengluelee.android.easyreceipts:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:icon
+          @attr name com.jengluelee.android.easyreceipts:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:indeterminateProgressStyle
+          @attr name com.jengluelee.android.easyreceipts:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3708,21 +3708,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:itemPadding
+          @attr name com.jengluelee.android.easyreceipts:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:logo
+          @attr name com.jengluelee.android.easyreceipts:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3736,21 +3736,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:navigationMode
+          @attr name com.jengluelee.android.easyreceipts:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:popupTheme
+          @attr name com.jengluelee.android.easyreceipts:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3762,21 +3762,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:progressBarPadding
+          @attr name com.jengluelee.android.easyreceipts:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:progressBarStyle
+          @attr name com.jengluelee.android.easyreceipts:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3786,21 +3786,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:subtitle
+          @attr name com.jengluelee.android.easyreceipts:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:subtitleTextStyle
+          @attr name com.jengluelee.android.easyreceipts:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#title}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3810,17 +3810,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:title
+          @attr name com.jengluelee.android.easyreceipts:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleTextStyle
+          @attr name com.jengluelee.android.easyreceipts:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3872,12 +3872,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.google.android.gms.samples.vision.barcodereader:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.google.android.gms.samples.vision.barcodereader:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.google.android.gms.samples.vision.barcodereader:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.google.android.gms.samples.vision.barcodereader:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.google.android.gms.samples.vision.barcodereader:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.google.android.gms.samples.vision.barcodereader:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.jengluelee.android.easyreceipts:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.jengluelee.android.easyreceipts:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.jengluelee.android.easyreceipts:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.jengluelee.android.easyreceipts:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.jengluelee.android.easyreceipts:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.jengluelee.android.easyreceipts:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3891,17 +3891,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#background}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:background
+          @attr name com.jengluelee.android.easyreceipts:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3909,21 +3909,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:backgroundSplit
+          @attr name com.jengluelee.android.easyreceipts:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:closeItemLayout
+          @attr name com.jengluelee.android.easyreceipts:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#height}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3935,27 +3935,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:height
+          @attr name com.jengluelee.android.easyreceipts:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:subtitleTextStyle
+          @attr name com.jengluelee.android.easyreceipts:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleTextStyle
+          @attr name com.jengluelee.android.easyreceipts:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3964,8 +3964,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.google.android.gms.samples.vision.barcodereader:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.google.android.gms.samples.vision.barcodereader:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.jengluelee.android.easyreceipts:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.jengluelee.android.easyreceipts:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3974,17 +3974,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:expandActivityOverflowButtonDrawable
+          @attr name com.jengluelee.android.easyreceipts:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3994,7 +3994,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:initialActivityCount
+          @attr name com.jengluelee.android.easyreceipts:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4004,11 +4004,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.google.android.gms.samples.vision.barcodereader:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.google.android.gms.samples.vision.barcodereader:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.google.android.gms.samples.vision.barcodereader:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.google.android.gms.samples.vision.barcodereader:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.google.android.gms.samples.vision.barcodereader:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.jengluelee.android.easyreceipts:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.jengluelee.android.easyreceipts:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.jengluelee.android.easyreceipts:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.jengluelee.android.easyreceipts:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.jengluelee.android.easyreceipts:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4028,53 +4028,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonPanelSideLayout
+          @attr name com.jengluelee.android.easyreceipts:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:listItemLayout
+          @attr name com.jengluelee.android.easyreceipts:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:listLayout
+          @attr name com.jengluelee.android.easyreceipts:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:multiChoiceItemLayout
+          @attr name com.jengluelee.android.easyreceipts:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:singleChoiceItemLayout
+          @attr name com.jengluelee.android.easyreceipts:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4084,8 +4084,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.google.android.gms.samples.vision.barcodereader:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.google.android.gms.samples.vision.barcodereader:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.jengluelee.android.easyreceipts:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.jengluelee.android.easyreceipts:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4101,7 +4101,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4113,11 +4113,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:elevation
+          @attr name com.jengluelee.android.easyreceipts:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4127,7 +4127,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:expanded
+          @attr name com.jengluelee.android.easyreceipts:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4136,8 +4136,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.google.android.gms.samples.vision.barcodereader:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.google.android.gms.samples.vision.barcodereader:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.jengluelee.android.easyreceipts:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.jengluelee.android.easyreceipts:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4146,7 +4146,7 @@ containing a value of this type.
             0x7f010027, 0x7f010028
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4156,11 +4156,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:state_collapsed
+          @attr name com.jengluelee.android.easyreceipts:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4170,7 +4170,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:state_collapsible
+          @attr name com.jengluelee.android.easyreceipts:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4179,8 +4179,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.google.android.gms.samples.vision.barcodereader:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.google.android.gms.samples.vision.barcodereader:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.jengluelee.android.easyreceipts:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.jengluelee.android.easyreceipts:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4189,7 +4189,7 @@ containing a value of this type.
             0x7f010029, 0x7f01002a
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4205,17 +4205,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_scrollFlags
+          @attr name com.jengluelee.android.easyreceipts:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_scrollInterpolator
+          @attr name com.jengluelee.android.easyreceipts:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4225,7 +4225,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.google.android.gms.samples.vision.barcodereader:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.jengluelee.android.easyreceipts:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4240,13 +4240,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:srcCompat
+          @attr name com.jengluelee.android.easyreceipts:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4256,9 +4256,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.google.android.gms.samples.vision.barcodereader:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.google.android.gms.samples.vision.barcodereader:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.google.android.gms.samples.vision.barcodereader:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.jengluelee.android.easyreceipts:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.jengluelee.android.easyreceipts:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.jengluelee.android.easyreceipts:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4275,17 +4275,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:tickMark
+          @attr name com.jengluelee.android.easyreceipts:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4296,11 +4296,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tickMarkTint
+          @attr name com.jengluelee.android.easyreceipts:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4317,7 +4317,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:tickMarkTintMode
+          @attr name com.jengluelee.android.easyreceipts:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4395,7 +4395,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.google.android.gms.samples.vision.barcodereader:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.jengluelee.android.easyreceipts:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4410,14 +4410,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAllCaps
+          @attr name com.jengluelee.android.easyreceipts:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4426,121 +4426,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.google.android.gms.samples.vision.barcodereader:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.google.android.gms.samples.vision.barcodereader:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.google.android.gms.samples.vision.barcodereader:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.google.android.gms.samples.vision.barcodereader:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.google.android.gms.samples.vision.barcodereader:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.google.android.gms.samples.vision.barcodereader:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.google.android.gms.samples.vision.barcodereader:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.google.android.gms.samples.vision.barcodereader:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.google.android.gms.samples.vision.barcodereader:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.google.android.gms.samples.vision.barcodereader:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.google.android.gms.samples.vision.barcodereader:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.google.android.gms.samples.vision.barcodereader:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.google.android.gms.samples.vision.barcodereader:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.google.android.gms.samples.vision.barcodereader:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.google.android.gms.samples.vision.barcodereader:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.google.android.gms.samples.vision.barcodereader:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.google.android.gms.samples.vision.barcodereader:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.google.android.gms.samples.vision.barcodereader:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.google.android.gms.samples.vision.barcodereader:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.google.android.gms.samples.vision.barcodereader:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.google.android.gms.samples.vision.barcodereader:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.google.android.gms.samples.vision.barcodereader:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.google.android.gms.samples.vision.barcodereader:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.google.android.gms.samples.vision.barcodereader:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.google.android.gms.samples.vision.barcodereader:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.google.android.gms.samples.vision.barcodereader:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.google.android.gms.samples.vision.barcodereader:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.google.android.gms.samples.vision.barcodereader:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.google.android.gms.samples.vision.barcodereader:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.google.android.gms.samples.vision.barcodereader:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.google.android.gms.samples.vision.barcodereader:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.google.android.gms.samples.vision.barcodereader:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.google.android.gms.samples.vision.barcodereader:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.google.android.gms.samples.vision.barcodereader:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.google.android.gms.samples.vision.barcodereader:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.jengluelee.android.easyreceipts:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.jengluelee.android.easyreceipts:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.jengluelee.android.easyreceipts:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.jengluelee.android.easyreceipts:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.jengluelee.android.easyreceipts:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.jengluelee.android.easyreceipts:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.jengluelee.android.easyreceipts:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.jengluelee.android.easyreceipts:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.jengluelee.android.easyreceipts:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.jengluelee.android.easyreceipts:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.jengluelee.android.easyreceipts:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.jengluelee.android.easyreceipts:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.jengluelee.android.easyreceipts:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.jengluelee.android.easyreceipts:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.jengluelee.android.easyreceipts:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.jengluelee.android.easyreceipts:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.jengluelee.android.easyreceipts:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.jengluelee.android.easyreceipts:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.jengluelee.android.easyreceipts:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.jengluelee.android.easyreceipts:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.jengluelee.android.easyreceipts:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.jengluelee.android.easyreceipts:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.jengluelee.android.easyreceipts:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.jengluelee.android.easyreceipts:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.jengluelee.android.easyreceipts:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.jengluelee.android.easyreceipts:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.jengluelee.android.easyreceipts:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.jengluelee.android.easyreceipts:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.jengluelee.android.easyreceipts:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.jengluelee.android.easyreceipts:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.jengluelee.android.easyreceipts:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.jengluelee.android.easyreceipts:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.jengluelee.android.easyreceipts:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.jengluelee.android.easyreceipts:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.jengluelee.android.easyreceipts:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.google.android.gms.samples.vision.barcodereader:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.google.android.gms.samples.vision.barcodereader:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.google.android.gms.samples.vision.barcodereader:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.google.android.gms.samples.vision.barcodereader:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.google.android.gms.samples.vision.barcodereader:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.google.android.gms.samples.vision.barcodereader:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.google.android.gms.samples.vision.barcodereader:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.google.android.gms.samples.vision.barcodereader:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.google.android.gms.samples.vision.barcodereader:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.google.android.gms.samples.vision.barcodereader:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.google.android.gms.samples.vision.barcodereader:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.google.android.gms.samples.vision.barcodereader:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.google.android.gms.samples.vision.barcodereader:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.google.android.gms.samples.vision.barcodereader:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.google.android.gms.samples.vision.barcodereader:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.google.android.gms.samples.vision.barcodereader:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.google.android.gms.samples.vision.barcodereader:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.google.android.gms.samples.vision.barcodereader:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.google.android.gms.samples.vision.barcodereader:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.google.android.gms.samples.vision.barcodereader:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.google.android.gms.samples.vision.barcodereader:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.google.android.gms.samples.vision.barcodereader:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.google.android.gms.samples.vision.barcodereader:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.google.android.gms.samples.vision.barcodereader:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.google.android.gms.samples.vision.barcodereader:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.google.android.gms.samples.vision.barcodereader:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.google.android.gms.samples.vision.barcodereader:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.google.android.gms.samples.vision.barcodereader:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.google.android.gms.samples.vision.barcodereader:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.google.android.gms.samples.vision.barcodereader:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.google.android.gms.samples.vision.barcodereader:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.google.android.gms.samples.vision.barcodereader:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.google.android.gms.samples.vision.barcodereader:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.google.android.gms.samples.vision.barcodereader:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.google.android.gms.samples.vision.barcodereader:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.google.android.gms.samples.vision.barcodereader:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.google.android.gms.samples.vision.barcodereader:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.google.android.gms.samples.vision.barcodereader:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.google.android.gms.samples.vision.barcodereader:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.google.android.gms.samples.vision.barcodereader:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.google.android.gms.samples.vision.barcodereader:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.google.android.gms.samples.vision.barcodereader:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.google.android.gms.samples.vision.barcodereader:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.google.android.gms.samples.vision.barcodereader:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.google.android.gms.samples.vision.barcodereader:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.google.android.gms.samples.vision.barcodereader:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.google.android.gms.samples.vision.barcodereader:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.google.android.gms.samples.vision.barcodereader:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.google.android.gms.samples.vision.barcodereader:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.google.android.gms.samples.vision.barcodereader:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.google.android.gms.samples.vision.barcodereader:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.google.android.gms.samples.vision.barcodereader:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.google.android.gms.samples.vision.barcodereader:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.google.android.gms.samples.vision.barcodereader:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.google.android.gms.samples.vision.barcodereader:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.google.android.gms.samples.vision.barcodereader:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.google.android.gms.samples.vision.barcodereader:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.google.android.gms.samples.vision.barcodereader:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.google.android.gms.samples.vision.barcodereader:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.google.android.gms.samples.vision.barcodereader:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.google.android.gms.samples.vision.barcodereader:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.google.android.gms.samples.vision.barcodereader:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.google.android.gms.samples.vision.barcodereader:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.google.android.gms.samples.vision.barcodereader:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.google.android.gms.samples.vision.barcodereader:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.google.android.gms.samples.vision.barcodereader:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.google.android.gms.samples.vision.barcodereader:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.google.android.gms.samples.vision.barcodereader:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.google.android.gms.samples.vision.barcodereader:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.google.android.gms.samples.vision.barcodereader:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.google.android.gms.samples.vision.barcodereader:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.google.android.gms.samples.vision.barcodereader:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.google.android.gms.samples.vision.barcodereader:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.google.android.gms.samples.vision.barcodereader:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.google.android.gms.samples.vision.barcodereader:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.google.android.gms.samples.vision.barcodereader:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.google.android.gms.samples.vision.barcodereader:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.google.android.gms.samples.vision.barcodereader:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.jengluelee.android.easyreceipts:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.jengluelee.android.easyreceipts:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.jengluelee.android.easyreceipts:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.jengluelee.android.easyreceipts:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.jengluelee.android.easyreceipts:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.jengluelee.android.easyreceipts:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.jengluelee.android.easyreceipts:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.jengluelee.android.easyreceipts:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.jengluelee.android.easyreceipts:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.jengluelee.android.easyreceipts:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.jengluelee.android.easyreceipts:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.jengluelee.android.easyreceipts:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.jengluelee.android.easyreceipts:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.jengluelee.android.easyreceipts:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.jengluelee.android.easyreceipts:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.jengluelee.android.easyreceipts:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.jengluelee.android.easyreceipts:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.jengluelee.android.easyreceipts:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.jengluelee.android.easyreceipts:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.jengluelee.android.easyreceipts:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.jengluelee.android.easyreceipts:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.jengluelee.android.easyreceipts:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.jengluelee.android.easyreceipts:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.jengluelee.android.easyreceipts:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.jengluelee.android.easyreceipts:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.jengluelee.android.easyreceipts:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.jengluelee.android.easyreceipts:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.jengluelee.android.easyreceipts:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.jengluelee.android.easyreceipts:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.jengluelee.android.easyreceipts:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.jengluelee.android.easyreceipts:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.jengluelee.android.easyreceipts:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.jengluelee.android.easyreceipts:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.jengluelee.android.easyreceipts:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.jengluelee.android.easyreceipts:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.jengluelee.android.easyreceipts:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.jengluelee.android.easyreceipts:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.jengluelee.android.easyreceipts:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.jengluelee.android.easyreceipts:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.jengluelee.android.easyreceipts:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.jengluelee.android.easyreceipts:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.jengluelee.android.easyreceipts:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.jengluelee.android.easyreceipts:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.jengluelee.android.easyreceipts:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.jengluelee.android.easyreceipts:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.jengluelee.android.easyreceipts:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.jengluelee.android.easyreceipts:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.jengluelee.android.easyreceipts:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.jengluelee.android.easyreceipts:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.jengluelee.android.easyreceipts:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.jengluelee.android.easyreceipts:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.jengluelee.android.easyreceipts:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.jengluelee.android.easyreceipts:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.jengluelee.android.easyreceipts:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.jengluelee.android.easyreceipts:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.jengluelee.android.easyreceipts:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.jengluelee.android.easyreceipts:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.jengluelee.android.easyreceipts:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.jengluelee.android.easyreceipts:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.jengluelee.android.easyreceipts:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.jengluelee.android.easyreceipts:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.jengluelee.android.easyreceipts:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.jengluelee.android.easyreceipts:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.jengluelee.android.easyreceipts:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.jengluelee.android.easyreceipts:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.jengluelee.android.easyreceipts:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.jengluelee.android.easyreceipts:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.jengluelee.android.easyreceipts:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.jengluelee.android.easyreceipts:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.jengluelee.android.easyreceipts:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.jengluelee.android.easyreceipts:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.jengluelee.android.easyreceipts:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.jengluelee.android.easyreceipts:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.jengluelee.android.easyreceipts:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.jengluelee.android.easyreceipts:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.jengluelee.android.easyreceipts:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.jengluelee.android.easyreceipts:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.jengluelee.android.easyreceipts:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4690,37 +4690,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01009e, 0x7f01009f, 0x7f0100a0
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarDivider
+          @attr name com.jengluelee.android.easyreceipts:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarItemBackground
+          @attr name com.jengluelee.android.easyreceipts:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarPopupTheme
+          @attr name com.jengluelee.android.easyreceipts:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4740,111 +4740,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarSize
+          @attr name com.jengluelee.android.easyreceipts:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarSplitStyle
+          @attr name com.jengluelee.android.easyreceipts:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarStyle
+          @attr name com.jengluelee.android.easyreceipts:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarTabBarStyle
+          @attr name com.jengluelee.android.easyreceipts:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarTabStyle
+          @attr name com.jengluelee.android.easyreceipts:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarTabTextStyle
+          @attr name com.jengluelee.android.easyreceipts:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarTheme
+          @attr name com.jengluelee.android.easyreceipts:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionBarWidgetTheme
+          @attr name com.jengluelee.android.easyreceipts:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionDropDownStyle
+          @attr name com.jengluelee.android.easyreceipts:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionMenuTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4852,181 +4852,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionMenuTextColor
+          @attr name com.jengluelee.android.easyreceipts:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeBackground
+          @attr name com.jengluelee.android.easyreceipts:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeCloseButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeCloseDrawable
+          @attr name com.jengluelee.android.easyreceipts:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeCopyDrawable
+          @attr name com.jengluelee.android.easyreceipts:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeCutDrawable
+          @attr name com.jengluelee.android.easyreceipts:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeFindDrawable
+          @attr name com.jengluelee.android.easyreceipts:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModePasteDrawable
+          @attr name com.jengluelee.android.easyreceipts:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModePopupWindowStyle
+          @attr name com.jengluelee.android.easyreceipts:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeSelectAllDrawable
+          @attr name com.jengluelee.android.easyreceipts:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeShareDrawable
+          @attr name com.jengluelee.android.easyreceipts:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeSplitBackground
+          @attr name com.jengluelee.android.easyreceipts:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeStyle
+          @attr name com.jengluelee.android.easyreceipts:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionModeWebSearchDrawable
+          @attr name com.jengluelee.android.easyreceipts:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionOverflowButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionOverflowMenuStyle
+          @attr name com.jengluelee.android.easyreceipts:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:activityChooserViewStyle
+          @attr name com.jengluelee.android.easyreceipts:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:alertDialogButtonGroupStyle
+          @attr name com.jengluelee.android.easyreceipts:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5036,27 +5036,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:alertDialogCenterButtons
+          @attr name com.jengluelee.android.easyreceipts:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:alertDialogStyle
+          @attr name com.jengluelee.android.easyreceipts:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:alertDialogTheme
+          @attr name com.jengluelee.android.easyreceipts:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -5072,117 +5072,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:autoCompleteTextViewStyle
+          @attr name com.jengluelee.android.easyreceipts:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:borderlessButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonBarButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonBarNegativeButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonBarNeutralButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonBarPositiveButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonBarStyle
+          @attr name com.jengluelee.android.easyreceipts:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonStyle
+          @attr name com.jengluelee.android.easyreceipts:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonStyleSmall
+          @attr name com.jengluelee.android.easyreceipts:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:checkboxStyle
+          @attr name com.jengluelee.android.easyreceipts:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:checkedTextViewStyle
+          @attr name com.jengluelee.android.easyreceipts:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5193,11 +5193,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorAccent
+          @attr name com.jengluelee.android.easyreceipts:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5208,11 +5208,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorBackgroundFloating
+          @attr name com.jengluelee.android.easyreceipts:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5223,11 +5223,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorButtonNormal
+          @attr name com.jengluelee.android.easyreceipts:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5238,11 +5238,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorControlActivated
+          @attr name com.jengluelee.android.easyreceipts:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5253,11 +5253,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorControlHighlight
+          @attr name com.jengluelee.android.easyreceipts:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5268,11 +5268,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorControlNormal
+          @attr name com.jengluelee.android.easyreceipts:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5283,11 +5283,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorPrimary
+          @attr name com.jengluelee.android.easyreceipts:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5298,11 +5298,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorPrimaryDark
+          @attr name com.jengluelee.android.easyreceipts:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5313,21 +5313,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorSwitchThumbNormal
+          @attr name com.jengluelee.android.easyreceipts:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:controlBackground
+          @attr name com.jengluelee.android.easyreceipts:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5339,51 +5339,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:dialogPreferredPadding
+          @attr name com.jengluelee.android.easyreceipts:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:dialogTheme
+          @attr name com.jengluelee.android.easyreceipts:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:dividerHorizontal
+          @attr name com.jengluelee.android.easyreceipts:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:dividerVertical
+          @attr name com.jengluelee.android.easyreceipts:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:dropDownListViewStyle
+          @attr name com.jengluelee.android.easyreceipts:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5395,21 +5395,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:dropdownListPreferredItemHeight
+          @attr name com.jengluelee.android.easyreceipts:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:editTextBackground
+          @attr name com.jengluelee.android.easyreceipts:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5417,81 +5417,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:editTextColor
+          @attr name com.jengluelee.android.easyreceipts:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:editTextStyle
+          @attr name com.jengluelee.android.easyreceipts:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:homeAsUpIndicator
+          @attr name com.jengluelee.android.easyreceipts:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:imageButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:listChoiceBackgroundIndicator
+          @attr name com.jengluelee.android.easyreceipts:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:listDividerAlertDialog
+          @attr name com.jengluelee.android.easyreceipts:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:listMenuViewStyle
+          @attr name com.jengluelee.android.easyreceipts:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:listPopupWindowStyle
+          @attr name com.jengluelee.android.easyreceipts:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5503,11 +5503,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:listPreferredItemHeight
+          @attr name com.jengluelee.android.easyreceipts:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5519,11 +5519,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:listPreferredItemHeightLarge
+          @attr name com.jengluelee.android.easyreceipts:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5535,11 +5535,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:listPreferredItemHeightSmall
+          @attr name com.jengluelee.android.easyreceipts:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5551,11 +5551,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:listPreferredItemPaddingLeft
+          @attr name com.jengluelee.android.easyreceipts:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5567,31 +5567,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:listPreferredItemPaddingRight
+          @attr name com.jengluelee.android.easyreceipts:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:panelBackground
+          @attr name com.jengluelee.android.easyreceipts:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:panelMenuListTheme
+          @attr name com.jengluelee.android.easyreceipts:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5603,211 +5603,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:panelMenuListWidth
+          @attr name com.jengluelee.android.easyreceipts:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:popupMenuStyle
+          @attr name com.jengluelee.android.easyreceipts:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:popupWindowStyle
+          @attr name com.jengluelee.android.easyreceipts:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:radioButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:ratingBarStyle
+          @attr name com.jengluelee.android.easyreceipts:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:ratingBarStyleIndicator
+          @attr name com.jengluelee.android.easyreceipts:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:ratingBarStyleSmall
+          @attr name com.jengluelee.android.easyreceipts:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:searchViewStyle
+          @attr name com.jengluelee.android.easyreceipts:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:seekBarStyle
+          @attr name com.jengluelee.android.easyreceipts:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:selectableItemBackground
+          @attr name com.jengluelee.android.easyreceipts:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:selectableItemBackgroundBorderless
+          @attr name com.jengluelee.android.easyreceipts:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:spinnerDropDownItemStyle
+          @attr name com.jengluelee.android.easyreceipts:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:spinnerStyle
+          @attr name com.jengluelee.android.easyreceipts:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:switchStyle
+          @attr name com.jengluelee.android.easyreceipts:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAppearanceLargePopupMenu
+          @attr name com.jengluelee.android.easyreceipts:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAppearanceListItem
+          @attr name com.jengluelee.android.easyreceipts:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAppearanceListItemSmall
+          @attr name com.jengluelee.android.easyreceipts:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAppearancePopupMenuHeader
+          @attr name com.jengluelee.android.easyreceipts:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAppearanceSearchResultSubtitle
+          @attr name com.jengluelee.android.easyreceipts:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAppearanceSearchResultTitle
+          @attr name com.jengluelee.android.easyreceipts:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAppearanceSmallPopupMenu
+          @attr name com.jengluelee.android.easyreceipts:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5815,11 +5815,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textColorAlertDialogListItem
+          @attr name com.jengluelee.android.easyreceipts:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5827,31 +5827,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textColorSearchUrl
+          @attr name com.jengluelee.android.easyreceipts:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:toolbarNavigationButtonStyle
+          @attr name com.jengluelee.android.easyreceipts:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:toolbarStyle
+          @attr name com.jengluelee.android.easyreceipts:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5861,11 +5861,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowActionBar
+          @attr name com.jengluelee.android.easyreceipts:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5875,11 +5875,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowActionBarOverlay
+          @attr name com.jengluelee.android.easyreceipts:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5889,11 +5889,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowActionModeOverlay
+          @attr name com.jengluelee.android.easyreceipts:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5908,11 +5908,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowFixedHeightMajor
+          @attr name com.jengluelee.android.easyreceipts:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5927,11 +5927,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowFixedHeightMinor
+          @attr name com.jengluelee.android.easyreceipts:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5946,11 +5946,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowFixedWidthMajor
+          @attr name com.jengluelee.android.easyreceipts:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5965,11 +5965,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowFixedWidthMinor
+          @attr name com.jengluelee.android.easyreceipts:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5984,11 +5984,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowMinWidthMajor
+          @attr name com.jengluelee.android.easyreceipts:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6003,11 +6003,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowMinWidthMinor
+          @attr name com.jengluelee.android.easyreceipts:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6017,7 +6017,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:windowNoTitle
+          @attr name com.jengluelee.android.easyreceipts:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6026,9 +6026,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.google.android.gms.samples.vision.barcodereader:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.google.android.gms.samples.vision.barcodereader:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.google.android.gms.samples.vision.barcodereader:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.jengluelee.android.easyreceipts:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.jengluelee.android.easyreceipts:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.jengluelee.android.easyreceipts:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6038,7 +6038,7 @@ containing a value of this type.
             0x7f0100a1, 0x7f0100a2, 0x7f0100a3
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6048,11 +6048,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:behavior_hideable
+          @attr name com.jengluelee.android.easyreceipts:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6072,11 +6072,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:behavior_peekHeight
+          @attr name com.jengluelee.android.easyreceipts:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6086,7 +6086,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:behavior_skipCollapsed
+          @attr name com.jengluelee.android.easyreceipts:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6095,7 +6095,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.google.android.gms.samples.vision.barcodereader:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.jengluelee.android.easyreceipts:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6103,7 +6103,7 @@ containing a value of this type.
             0x7f0100a4
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6113,7 +6113,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:allowStacking
+          @attr name com.jengluelee.android.easyreceipts:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6122,22 +6122,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.google.android.gms.samples.vision.barcodereader:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.google.android.gms.samples.vision.barcodereader:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.google.android.gms.samples.vision.barcodereader:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.google.android.gms.samples.vision.barcodereader:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.google.android.gms.samples.vision.barcodereader:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.google.android.gms.samples.vision.barcodereader:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.google.android.gms.samples.vision.barcodereader:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.google.android.gms.samples.vision.barcodereader:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.google.android.gms.samples.vision.barcodereader:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.google.android.gms.samples.vision.barcodereader:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.google.android.gms.samples.vision.barcodereader:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.google.android.gms.samples.vision.barcodereader:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.google.android.gms.samples.vision.barcodereader:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.google.android.gms.samples.vision.barcodereader:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.google.android.gms.samples.vision.barcodereader:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.google.android.gms.samples.vision.barcodereader:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.jengluelee.android.easyreceipts:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.jengluelee.android.easyreceipts:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.jengluelee.android.easyreceipts:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.jengluelee.android.easyreceipts:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.jengluelee.android.easyreceipts:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.jengluelee.android.easyreceipts:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.jengluelee.android.easyreceipts:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.jengluelee.android.easyreceipts:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.jengluelee.android.easyreceipts:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.jengluelee.android.easyreceipts:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.jengluelee.android.easyreceipts:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.jengluelee.android.easyreceipts:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.jengluelee.android.easyreceipts:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.jengluelee.android.easyreceipts:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.jengluelee.android.easyreceipts:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.jengluelee.android.easyreceipts:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6163,7 +6163,7 @@ containing a value of this type.
             0x7f0100b0, 0x7f0100b1, 0x7f0100b2, 0x7f0100b3
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6184,21 +6184,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:collapsedTitleGravity
+          @attr name com.jengluelee.android.easyreceipts:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:collapsedTitleTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6209,11 +6209,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentScrim
+          @attr name com.jengluelee.android.easyreceipts:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6234,11 +6234,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:expandedTitleGravity
+          @attr name com.jengluelee.android.easyreceipts:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6250,11 +6250,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:expandedTitleMargin
+          @attr name com.jengluelee.android.easyreceipts:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6266,11 +6266,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:expandedTitleMarginBottom
+          @attr name com.jengluelee.android.easyreceipts:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6282,11 +6282,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:expandedTitleMarginEnd
+          @attr name com.jengluelee.android.easyreceipts:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6298,11 +6298,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:expandedTitleMarginStart
+          @attr name com.jengluelee.android.easyreceipts:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6314,21 +6314,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:expandedTitleMarginTop
+          @attr name com.jengluelee.android.easyreceipts:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:expandedTitleTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6338,11 +6338,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:scrimAnimationDuration
+          @attr name com.jengluelee.android.easyreceipts:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6354,11 +6354,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:scrimVisibleHeightTrigger
+          @attr name com.jengluelee.android.easyreceipts:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6369,11 +6369,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:statusBarScrim
+          @attr name com.jengluelee.android.easyreceipts:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#title}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6383,11 +6383,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:title
+          @attr name com.jengluelee.android.easyreceipts:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6397,17 +6397,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleEnabled
+          @attr name com.jengluelee.android.easyreceipts:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:toolbarId
+          @attr name com.jengluelee.android.easyreceipts:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -6416,8 +6416,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.google.android.gms.samples.vision.barcodereader:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.google.android.gms.samples.vision.barcodereader:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.jengluelee.android.easyreceipts:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.jengluelee.android.easyreceipts:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -6426,7 +6426,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b4, 0x7f0100b5
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6440,11 +6440,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_collapseMode
+          @attr name com.jengluelee.android.easyreceipts:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6454,7 +6454,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_collapseParallaxMultiplier
+          @attr name com.jengluelee.android.easyreceipts:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6463,7 +6463,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.google.android.gms.samples.vision.barcodereader:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.jengluelee.android.easyreceipts:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6475,7 +6475,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100b6
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6485,7 +6485,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:alpha
+          @attr name com.jengluelee.android.easyreceipts:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6507,8 +6507,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.google.android.gms.samples.vision.barcodereader:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.google.android.gms.samples.vision.barcodereader:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.jengluelee.android.easyreceipts:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.jengluelee.android.easyreceipts:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6524,7 +6524,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6535,11 +6535,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonTint
+          @attr name com.jengluelee.android.easyreceipts:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6555,7 +6555,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonTintMode
+          @attr name com.jengluelee.android.easyreceipts:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -6564,8 +6564,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.google.android.gms.samples.vision.barcodereader:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.google.android.gms.samples.vision.barcodereader:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.jengluelee.android.easyreceipts:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.jengluelee.android.easyreceipts:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -6574,23 +6574,23 @@ containing a value of this type.
             0x7f0100b9, 0x7f0100ba
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:keylines
+          @attr name com.jengluelee.android.easyreceipts:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:statusBarBackground
+          @attr name com.jengluelee.android.easyreceipts:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -6600,12 +6600,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.google.android.gms.samples.vision.barcodereader:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.google.android.gms.samples.vision.barcodereader:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.google.android.gms.samples.vision.barcodereader:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.google.android.gms.samples.vision.barcodereader:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.google.android.gms.samples.vision.barcodereader:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.google.android.gms.samples.vision.barcodereader:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.jengluelee.android.easyreceipts:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.jengluelee.android.easyreceipts:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.jengluelee.android.easyreceipts:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.jengluelee.android.easyreceipts:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.jengluelee.android.easyreceipts:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.jengluelee.android.easyreceipts:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -6626,17 +6626,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_anchor
+          @attr name com.jengluelee.android.easyreceipts:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6661,11 +6661,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_anchorGravity
+          @attr name com.jengluelee.android.easyreceipts:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6675,11 +6675,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_behavior
+          @attr name com.jengluelee.android.easyreceipts:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6698,11 +6698,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_dodgeInsetEdges
+          @attr name com.jengluelee.android.easyreceipts:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6720,11 +6720,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_insetEdge
+          @attr name com.jengluelee.android.easyreceipts:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6734,7 +6734,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout_keyline
+          @attr name com.jengluelee.android.easyreceipts:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -6743,9 +6743,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.google.android.gms.samples.vision.barcodereader:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.google.android.gms.samples.vision.barcodereader:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.google.android.gms.samples.vision.barcodereader:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.jengluelee.android.easyreceipts:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.jengluelee.android.easyreceipts:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.jengluelee.android.easyreceipts:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -6755,27 +6755,27 @@ containing a value of this type.
             0x7f0100c1, 0x7f0100c2, 0x7f0100c3
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:bottomSheetDialogTheme
+          @attr name com.jengluelee.android.easyreceipts:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:bottomSheetStyle
+          @attr name com.jengluelee.android.easyreceipts:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -6786,7 +6786,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:textColorError
+          @attr name com.jengluelee.android.easyreceipts:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -6795,14 +6795,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.google.android.gms.samples.vision.barcodereader:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.google.android.gms.samples.vision.barcodereader:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.google.android.gms.samples.vision.barcodereader:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.google.android.gms.samples.vision.barcodereader:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.google.android.gms.samples.vision.barcodereader:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.google.android.gms.samples.vision.barcodereader:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.google.android.gms.samples.vision.barcodereader:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.google.android.gms.samples.vision.barcodereader:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.jengluelee.android.easyreceipts:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.jengluelee.android.easyreceipts:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.jengluelee.android.easyreceipts:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.jengluelee.android.easyreceipts:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.jengluelee.android.easyreceipts:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.jengluelee.android.easyreceipts:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.jengluelee.android.easyreceipts:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.jengluelee.android.easyreceipts:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -6818,7 +6818,7 @@ containing a value of this type.
             0x7f0100c8, 0x7f0100c9, 0x7f0100ca, 0x7f0100cb
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6830,11 +6830,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:arrowHeadLength
+          @attr name com.jengluelee.android.easyreceipts:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6846,11 +6846,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:arrowShaftLength
+          @attr name com.jengluelee.android.easyreceipts:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6862,11 +6862,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:barLength
+          @attr name com.jengluelee.android.easyreceipts:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#color}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6877,11 +6877,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:color
+          @attr name com.jengluelee.android.easyreceipts:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6893,11 +6893,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:drawableSize
+          @attr name com.jengluelee.android.easyreceipts:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6909,11 +6909,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:gapBetweenBars
+          @attr name com.jengluelee.android.easyreceipts:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6923,11 +6923,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:spinBars
+          @attr name com.jengluelee.android.easyreceipts:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6939,7 +6939,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:thickness
+          @attr name com.jengluelee.android.easyreceipts:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -6948,14 +6948,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.google.android.gms.samples.vision.barcodereader:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.google.android.gms.samples.vision.barcodereader:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.google.android.gms.samples.vision.barcodereader:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.google.android.gms.samples.vision.barcodereader:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.google.android.gms.samples.vision.barcodereader:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.google.android.gms.samples.vision.barcodereader:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.google.android.gms.samples.vision.barcodereader:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.google.android.gms.samples.vision.barcodereader:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.jengluelee.android.easyreceipts:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.jengluelee.android.easyreceipts:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.jengluelee.android.easyreceipts:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.jengluelee.android.easyreceipts:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.jengluelee.android.easyreceipts:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.jengluelee.android.easyreceipts:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.jengluelee.android.easyreceipts:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.jengluelee.android.easyreceipts:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -6971,7 +6971,7 @@ containing a value of this type.
             0x7f0100cf, 0x7f0100d0, 0x7f01013b, 0x7f01013c
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6982,11 +6982,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:backgroundTint
+          @attr name com.jengluelee.android.easyreceipts:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7002,11 +7002,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:backgroundTintMode
+          @attr name com.jengluelee.android.easyreceipts:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7018,11 +7018,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:borderWidth
+          @attr name com.jengluelee.android.easyreceipts:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7034,11 +7034,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:elevation
+          @attr name com.jengluelee.android.easyreceipts:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7052,11 +7052,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:fabSize
+          @attr name com.jengluelee.android.easyreceipts:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7068,11 +7068,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:pressedTranslationZ
+          @attr name com.jengluelee.android.easyreceipts:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7083,11 +7083,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:rippleColor
+          @attr name com.jengluelee.android.easyreceipts:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7097,7 +7097,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:useCompatPadding
+          @attr name com.jengluelee.android.easyreceipts:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7106,7 +7106,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.google.android.gms.samples.vision.barcodereader:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.jengluelee.android.easyreceipts:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7114,7 +7114,7 @@ containing a value of this type.
             0x7f0100d1
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7124,7 +7124,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:behavior_autoHide
+          @attr name com.jengluelee.android.easyreceipts:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7135,7 +7135,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.google.android.gms.samples.vision.barcodereader:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.jengluelee.android.easyreceipts:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7157,7 +7157,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7167,7 +7167,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:foregroundInsidePadding
+          @attr name com.jengluelee.android.easyreceipts:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7181,10 +7181,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.google.android.gms.samples.vision.barcodereader:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.google.android.gms.samples.vision.barcodereader:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.google.android.gms.samples.vision.barcodereader:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.google.android.gms.samples.vision.barcodereader:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.jengluelee.android.easyreceipts:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.jengluelee.android.easyreceipts:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.jengluelee.android.easyreceipts:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.jengluelee.android.easyreceipts:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7232,17 +7232,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:divider
+          @attr name com.jengluelee.android.easyreceipts:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7254,11 +7254,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:dividerPadding
+          @attr name com.jengluelee.android.easyreceipts:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7268,11 +7268,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:measureWithLargestChild
+          @attr name com.jengluelee.android.easyreceipts:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7287,7 +7287,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:showDividers
+          @attr name com.jengluelee.android.easyreceipts:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7366,9 +7366,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop com.google.android.gms.samples.vision.barcodereader:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.google.android.gms.samples.vision.barcodereader:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.google.android.gms.samples.vision.barcodereader:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop com.jengluelee.android.easyreceipts:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.jengluelee.android.easyreceipts:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.jengluelee.android.easyreceipts:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -7378,7 +7378,7 @@ containing a value of this type.
             0x7f0100d6, 0x7f0100d7, 0x7f0100d8
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7388,11 +7388,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:circleCrop
+          @attr name com.jengluelee.android.easyreceipts:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7402,11 +7402,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:imageAspectRatio
+          @attr name com.jengluelee.android.easyreceipts:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7420,7 +7420,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:imageAspectRatioAdjust
+          @attr name com.jengluelee.android.easyreceipts:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MenuGroup.
@@ -7489,9 +7489,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.google.android.gms.samples.vision.barcodereader:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.google.android.gms.samples.vision.barcodereader:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.google.android.gms.samples.vision.barcodereader:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.jengluelee.android.easyreceipts:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.jengluelee.android.easyreceipts:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.jengluelee.android.easyreceipts:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -7505,7 +7505,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.google.android.gms.samples.vision.barcodereader:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.jengluelee.android.easyreceipts:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -7533,17 +7533,17 @@ containing a value of this type.
             0x7f0100dc
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionLayout
+          @attr name com.jengluelee.android.easyreceipts:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7553,11 +7553,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionProviderClass
+          @attr name com.jengluelee.android.easyreceipts:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7567,7 +7567,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:actionViewClass
+          @attr name com.jengluelee.android.easyreceipts:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -7649,7 +7649,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7665,7 +7665,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:showAsAction
+          @attr name com.jengluelee.android.easyreceipts:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -7681,8 +7681,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.google.android.gms.samples.vision.barcodereader:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.google.android.gms.samples.vision.barcodereader:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.jengluelee.android.easyreceipts:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.jengluelee.android.easyreceipts:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7742,7 +7742,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7752,17 +7752,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:preserveIconSpacing
+          @attr name com.jengluelee.android.easyreceipts:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:subMenuArrow
+          @attr name com.jengluelee.android.easyreceipts:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -7774,13 +7774,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.google.android.gms.samples.vision.barcodereader:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.google.android.gms.samples.vision.barcodereader:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.google.android.gms.samples.vision.barcodereader:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.google.android.gms.samples.vision.barcodereader:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.google.android.gms.samples.vision.barcodereader:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.google.android.gms.samples.vision.barcodereader:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.google.android.gms.samples.vision.barcodereader:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.jengluelee.android.easyreceipts:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.jengluelee.android.easyreceipts:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.jengluelee.android.easyreceipts:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.jengluelee.android.easyreceipts:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.jengluelee.android.easyreceipts:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.jengluelee.android.easyreceipts:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.jengluelee.android.easyreceipts:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -7817,7 +7817,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7829,31 +7829,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:elevation
+          @attr name com.jengluelee.android.easyreceipts:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:headerLayout
+          @attr name com.jengluelee.android.easyreceipts:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:itemBackground
+          @attr name com.jengluelee.android.easyreceipts:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7864,21 +7864,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:itemIconTint
+          @attr name com.jengluelee.android.easyreceipts:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:itemTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7889,17 +7889,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:itemTextColor
+          @attr name com.jengluelee.android.easyreceipts:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:menu
+          @attr name com.jengluelee.android.easyreceipts:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -7910,7 +7910,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.google.android.gms.samples.vision.barcodereader:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.jengluelee.android.easyreceipts:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -7932,7 +7932,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -7942,7 +7942,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:overlapAnchor
+          @attr name com.jengluelee.android.easyreceipts:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -7951,7 +7951,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.google.android.gms.samples.vision.barcodereader:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.jengluelee.android.easyreceipts:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -7959,7 +7959,7 @@ containing a value of this type.
             0x7f0100e6
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -7969,7 +7969,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:state_above_anchor
+          @attr name com.jengluelee.android.easyreceipts:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -7980,10 +7980,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.google.android.gms.samples.vision.barcodereader:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.google.android.gms.samples.vision.barcodereader:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.google.android.gms.samples.vision.barcodereader:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.google.android.gms.samples.vision.barcodereader:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.jengluelee.android.easyreceipts:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.jengluelee.android.easyreceipts:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.jengluelee.android.easyreceipts:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.jengluelee.android.easyreceipts:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8009,7 +8009,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8019,11 +8019,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:layoutManager
+          @attr name com.jengluelee.android.easyreceipts:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8033,11 +8033,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:reverseLayout
+          @attr name com.jengluelee.android.easyreceipts:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8047,11 +8047,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:spanCount
+          @attr name com.jengluelee.android.easyreceipts:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8061,7 +8061,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:stackFromEnd
+          @attr name com.jengluelee.android.easyreceipts:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -8070,7 +8070,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.google.android.gms.samples.vision.barcodereader:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.jengluelee.android.easyreceipts:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -8078,7 +8078,7 @@ containing a value of this type.
             0x7f0100eb
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -8086,7 +8086,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:insetForeground
+          @attr name com.jengluelee.android.easyreceipts:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -8095,7 +8095,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.google.android.gms.samples.vision.barcodereader:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.jengluelee.android.easyreceipts:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -8103,7 +8103,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ec
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -8115,7 +8115,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:behavior_overlapTop
+          @attr name com.jengluelee.android.easyreceipts:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8128,19 +8128,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.google.android.gms.samples.vision.barcodereader:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.google.android.gms.samples.vision.barcodereader:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.google.android.gms.samples.vision.barcodereader:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.google.android.gms.samples.vision.barcodereader:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.google.android.gms.samples.vision.barcodereader:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.google.android.gms.samples.vision.barcodereader:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.google.android.gms.samples.vision.barcodereader:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.google.android.gms.samples.vision.barcodereader:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.google.android.gms.samples.vision.barcodereader:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.google.android.gms.samples.vision.barcodereader:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.google.android.gms.samples.vision.barcodereader:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.google.android.gms.samples.vision.barcodereader:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.google.android.gms.samples.vision.barcodereader:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.jengluelee.android.easyreceipts:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.jengluelee.android.easyreceipts:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.jengluelee.android.easyreceipts:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.jengluelee.android.easyreceipts:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.jengluelee.android.easyreceipts:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.jengluelee.android.easyreceipts:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.jengluelee.android.easyreceipts:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.jengluelee.android.easyreceipts:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.jengluelee.android.easyreceipts:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.jengluelee.android.easyreceipts:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.jengluelee.android.easyreceipts:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.jengluelee.android.easyreceipts:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.jengluelee.android.easyreceipts:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8192,27 +8192,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:closeIcon
+          @attr name com.jengluelee.android.easyreceipts:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:commitIcon
+          @attr name com.jengluelee.android.easyreceipts:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8222,21 +8222,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:defaultQueryHint
+          @attr name com.jengluelee.android.easyreceipts:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:goIcon
+          @attr name com.jengluelee.android.easyreceipts:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8246,31 +8246,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:iconifiedByDefault
+          @attr name com.jengluelee.android.easyreceipts:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:layout
+          @attr name com.jengluelee.android.easyreceipts:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:queryBackground
+          @attr name com.jengluelee.android.easyreceipts:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8280,57 +8280,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:queryHint
+          @attr name com.jengluelee.android.easyreceipts:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:searchHintIcon
+          @attr name com.jengluelee.android.easyreceipts:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:searchIcon
+          @attr name com.jengluelee.android.easyreceipts:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:submitBackground
+          @attr name com.jengluelee.android.easyreceipts:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:suggestionRowLayout
+          @attr name com.jengluelee.android.easyreceipts:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:voiceIcon
+          @attr name com.jengluelee.android.easyreceipts:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SignInButton.
@@ -8339,9 +8339,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize com.google.android.gms.samples.vision.barcodereader:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme com.google.android.gms.samples.vision.barcodereader:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris com.google.android.gms.samples.vision.barcodereader:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize com.jengluelee.android.easyreceipts:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme com.jengluelee.android.easyreceipts:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris com.jengluelee.android.easyreceipts:scopeUris}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_colorScheme
@@ -8351,7 +8351,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100fa, 0x7f0100fb, 0x7f0100fc
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -8367,11 +8367,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonSize
+          @attr name com.jengluelee.android.easyreceipts:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -8387,18 +8387,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:colorScheme
+          @attr name com.jengluelee.android.easyreceipts:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.google.android.gms.samples.vision.barcodereader:scopeUris
+          @attr name com.jengluelee.android.easyreceipts:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /** Attributes that can be used with a SnackbarLayout.
@@ -8408,8 +8408,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.google.android.gms.samples.vision.barcodereader:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.google.android.gms.samples.vision.barcodereader:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.jengluelee.android.easyreceipts:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.jengluelee.android.easyreceipts:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -8425,7 +8425,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8437,11 +8437,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:elevation
+          @attr name com.jengluelee.android.easyreceipts:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8453,7 +8453,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:maxActionInlineWidth
+          @attr name com.jengluelee.android.easyreceipts:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -8466,7 +8466,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.google.android.gms.samples.vision.barcodereader:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.jengluelee.android.easyreceipts:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -8503,13 +8503,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:popupTheme
+          @attr name com.jengluelee.android.easyreceipts:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -8521,17 +8521,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.google.android.gms.samples.vision.barcodereader:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.google.android.gms.samples.vision.barcodereader:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.google.android.gms.samples.vision.barcodereader:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.google.android.gms.samples.vision.barcodereader:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.google.android.gms.samples.vision.barcodereader:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.google.android.gms.samples.vision.barcodereader:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.google.android.gms.samples.vision.barcodereader:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.google.android.gms.samples.vision.barcodereader:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.google.android.gms.samples.vision.barcodereader:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.google.android.gms.samples.vision.barcodereader:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.google.android.gms.samples.vision.barcodereader:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.jengluelee.android.easyreceipts:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.jengluelee.android.easyreceipts:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.jengluelee.android.easyreceipts:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.jengluelee.android.easyreceipts:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.jengluelee.android.easyreceipts:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.jengluelee.android.easyreceipts:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.jengluelee.android.easyreceipts:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.jengluelee.android.easyreceipts:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.jengluelee.android.easyreceipts:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.jengluelee.android.easyreceipts:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.jengluelee.android.easyreceipts:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -8573,7 +8573,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8583,11 +8583,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:showText
+          @attr name com.jengluelee.android.easyreceipts:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8597,11 +8597,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:splitTrack
+          @attr name com.jengluelee.android.easyreceipts:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8613,11 +8613,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:switchMinWidth
+          @attr name com.jengluelee.android.easyreceipts:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8629,21 +8629,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:switchPadding
+          @attr name com.jengluelee.android.easyreceipts:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:switchTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8655,11 +8655,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:thumbTextPadding
+          @attr name com.jengluelee.android.easyreceipts:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8670,11 +8670,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:thumbTint
+          @attr name com.jengluelee.android.easyreceipts:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8691,21 +8691,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:thumbTintMode
+          @attr name com.jengluelee.android.easyreceipts:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#track}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:track
+          @attr name com.jengluelee.android.easyreceipts:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8716,11 +8716,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:trackTint
+          @attr name com.jengluelee.android.easyreceipts:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8737,7 +8737,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:trackTintMode
+          @attr name com.jengluelee.android.easyreceipts:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -8781,22 +8781,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.google.android.gms.samples.vision.barcodereader:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.google.android.gms.samples.vision.barcodereader:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.google.android.gms.samples.vision.barcodereader:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.google.android.gms.samples.vision.barcodereader:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.google.android.gms.samples.vision.barcodereader:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.google.android.gms.samples.vision.barcodereader:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.google.android.gms.samples.vision.barcodereader:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.google.android.gms.samples.vision.barcodereader:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.google.android.gms.samples.vision.barcodereader:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.google.android.gms.samples.vision.barcodereader:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.google.android.gms.samples.vision.barcodereader:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.google.android.gms.samples.vision.barcodereader:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.google.android.gms.samples.vision.barcodereader:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.google.android.gms.samples.vision.barcodereader:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.google.android.gms.samples.vision.barcodereader:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.google.android.gms.samples.vision.barcodereader:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.jengluelee.android.easyreceipts:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.jengluelee.android.easyreceipts:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.jengluelee.android.easyreceipts:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.jengluelee.android.easyreceipts:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.jengluelee.android.easyreceipts:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.jengluelee.android.easyreceipts:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.jengluelee.android.easyreceipts:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.jengluelee.android.easyreceipts:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.jengluelee.android.easyreceipts:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.jengluelee.android.easyreceipts:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.jengluelee.android.easyreceipts:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.jengluelee.android.easyreceipts:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.jengluelee.android.easyreceipts:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.jengluelee.android.easyreceipts:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.jengluelee.android.easyreceipts:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.jengluelee.android.easyreceipts:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -8822,17 +8822,17 @@ containing a value of this type.
             0x7f010115, 0x7f010116, 0x7f010117, 0x7f010118
         };
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabBackground
+          @attr name com.jengluelee.android.easyreceipts:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8844,11 +8844,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabContentStart
+          @attr name com.jengluelee.android.easyreceipts:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8861,11 +8861,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabGravity
+          @attr name com.jengluelee.android.easyreceipts:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8876,11 +8876,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabIndicatorColor
+          @attr name com.jengluelee.android.easyreceipts:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8892,11 +8892,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabIndicatorHeight
+          @attr name com.jengluelee.android.easyreceipts:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8908,11 +8908,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabMaxWidth
+          @attr name com.jengluelee.android.easyreceipts:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8924,11 +8924,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabMinWidth
+          @attr name com.jengluelee.android.easyreceipts:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8941,11 +8941,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabMode
+          @attr name com.jengluelee.android.easyreceipts:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8957,11 +8957,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabPadding
+          @attr name com.jengluelee.android.easyreceipts:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8973,11 +8973,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabPaddingBottom
+          @attr name com.jengluelee.android.easyreceipts:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8989,11 +8989,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabPaddingEnd
+          @attr name com.jengluelee.android.easyreceipts:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9005,11 +9005,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabPaddingStart
+          @attr name com.jengluelee.android.easyreceipts:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9021,11 +9021,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabPaddingTop
+          @attr name com.jengluelee.android.easyreceipts:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9036,21 +9036,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabSelectedTextColor
+          @attr name com.jengluelee.android.easyreceipts:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9061,7 +9061,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:tabTextColor
+          @attr name com.jengluelee.android.easyreceipts:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -9078,7 +9078,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.google.android.gms.samples.vision.barcodereader:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.jengluelee.android.easyreceipts:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -9144,14 +9144,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:textAllCaps
+          @attr name com.jengluelee.android.easyreceipts:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a TextInputLayout.
@@ -9162,20 +9162,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.google.android.gms.samples.vision.barcodereader:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.google.android.gms.samples.vision.barcodereader:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.google.android.gms.samples.vision.barcodereader:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.google.android.gms.samples.vision.barcodereader:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.google.android.gms.samples.vision.barcodereader:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.google.android.gms.samples.vision.barcodereader:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.google.android.gms.samples.vision.barcodereader:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.google.android.gms.samples.vision.barcodereader:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.google.android.gms.samples.vision.barcodereader:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.google.android.gms.samples.vision.barcodereader:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.google.android.gms.samples.vision.barcodereader:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.google.android.gms.samples.vision.barcodereader:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.google.android.gms.samples.vision.barcodereader:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.google.android.gms.samples.vision.barcodereader:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.jengluelee.android.easyreceipts:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.jengluelee.android.easyreceipts:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.jengluelee.android.easyreceipts:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.jengluelee.android.easyreceipts:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.jengluelee.android.easyreceipts:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.jengluelee.android.easyreceipts:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.jengluelee.android.easyreceipts:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.jengluelee.android.easyreceipts:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.jengluelee.android.easyreceipts:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.jengluelee.android.easyreceipts:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.jengluelee.android.easyreceipts:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.jengluelee.android.easyreceipts:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.jengluelee.android.easyreceipts:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.jengluelee.android.easyreceipts:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -9213,7 +9213,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9223,11 +9223,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:counterEnabled
+          @attr name com.jengluelee.android.easyreceipts:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9237,31 +9237,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:counterMaxLength
+          @attr name com.jengluelee.android.easyreceipts:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:counterOverflowTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:counterTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9271,21 +9271,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:errorEnabled
+          @attr name com.jengluelee.android.easyreceipts:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:errorTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9295,11 +9295,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:hintAnimationEnabled
+          @attr name com.jengluelee.android.easyreceipts:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9309,21 +9309,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:hintEnabled
+          @attr name com.jengluelee.android.easyreceipts:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:hintTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9333,21 +9333,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:passwordToggleContentDescription
+          @attr name com.jengluelee.android.easyreceipts:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:passwordToggleDrawable
+          @attr name com.jengluelee.android.easyreceipts:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9357,11 +9357,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:passwordToggleEnabled
+          @attr name com.jengluelee.android.easyreceipts:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9372,11 +9372,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:passwordToggleTint
+          @attr name com.jengluelee.android.easyreceipts:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9392,7 +9392,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:passwordToggleTintMode
+          @attr name com.jengluelee.android.easyreceipts:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -9403,33 +9403,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.google.android.gms.samples.vision.barcodereader:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.google.android.gms.samples.vision.barcodereader:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.google.android.gms.samples.vision.barcodereader:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.google.android.gms.samples.vision.barcodereader:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.google.android.gms.samples.vision.barcodereader:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.google.android.gms.samples.vision.barcodereader:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.google.android.gms.samples.vision.barcodereader:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.google.android.gms.samples.vision.barcodereader:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.google.android.gms.samples.vision.barcodereader:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.google.android.gms.samples.vision.barcodereader:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.google.android.gms.samples.vision.barcodereader:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.google.android.gms.samples.vision.barcodereader:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.google.android.gms.samples.vision.barcodereader:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.google.android.gms.samples.vision.barcodereader:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.google.android.gms.samples.vision.barcodereader:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.google.android.gms.samples.vision.barcodereader:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.google.android.gms.samples.vision.barcodereader:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.google.android.gms.samples.vision.barcodereader:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.google.android.gms.samples.vision.barcodereader:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.google.android.gms.samples.vision.barcodereader:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.google.android.gms.samples.vision.barcodereader:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.google.android.gms.samples.vision.barcodereader:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.google.android.gms.samples.vision.barcodereader:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.google.android.gms.samples.vision.barcodereader:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.google.android.gms.samples.vision.barcodereader:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.google.android.gms.samples.vision.barcodereader:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.google.android.gms.samples.vision.barcodereader:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.jengluelee.android.easyreceipts:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.jengluelee.android.easyreceipts:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.jengluelee.android.easyreceipts:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.jengluelee.android.easyreceipts:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.jengluelee.android.easyreceipts:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.jengluelee.android.easyreceipts:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.jengluelee.android.easyreceipts:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.jengluelee.android.easyreceipts:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.jengluelee.android.easyreceipts:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.jengluelee.android.easyreceipts:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.jengluelee.android.easyreceipts:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.jengluelee.android.easyreceipts:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.jengluelee.android.easyreceipts:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.jengluelee.android.easyreceipts:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.jengluelee.android.easyreceipts:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.jengluelee.android.easyreceipts:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.jengluelee.android.easyreceipts:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.jengluelee.android.easyreceipts:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.jengluelee.android.easyreceipts:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.jengluelee.android.easyreceipts:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.jengluelee.android.easyreceipts:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.jengluelee.android.easyreceipts:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.jengluelee.android.easyreceipts:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.jengluelee.android.easyreceipts:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.jengluelee.android.easyreceipts:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.jengluelee.android.easyreceipts:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.jengluelee.android.easyreceipts:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -9484,7 +9484,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9497,11 +9497,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:buttonGravity
+          @attr name com.jengluelee.android.easyreceipts:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9511,21 +9511,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:collapseContentDescription
+          @attr name com.jengluelee.android.easyreceipts:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:collapseIcon
+          @attr name com.jengluelee.android.easyreceipts:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9537,11 +9537,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetEnd
+          @attr name com.jengluelee.android.easyreceipts:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9553,11 +9553,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetEndWithActions
+          @attr name com.jengluelee.android.easyreceipts:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9569,11 +9569,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetLeft
+          @attr name com.jengluelee.android.easyreceipts:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9585,11 +9585,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetRight
+          @attr name com.jengluelee.android.easyreceipts:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9601,11 +9601,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetStart
+          @attr name com.jengluelee.android.easyreceipts:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9617,21 +9617,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:contentInsetStartWithNavigation
+          @attr name com.jengluelee.android.easyreceipts:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:logo
+          @attr name com.jengluelee.android.easyreceipts:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9641,11 +9641,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:logoDescription
+          @attr name com.jengluelee.android.easyreceipts:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9657,11 +9657,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:maxButtonHeight
+          @attr name com.jengluelee.android.easyreceipts:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9671,31 +9671,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:navigationContentDescription
+          @attr name com.jengluelee.android.easyreceipts:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:navigationIcon
+          @attr name com.jengluelee.android.easyreceipts:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:popupTheme
+          @attr name com.jengluelee.android.easyreceipts:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9705,21 +9705,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:subtitle
+          @attr name com.jengluelee.android.easyreceipts:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:subtitleTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9730,11 +9730,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:subtitleTextColor
+          @attr name com.jengluelee.android.easyreceipts:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#title}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9744,11 +9744,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:title
+          @attr name com.jengluelee.android.easyreceipts:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9760,11 +9760,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleMargin
+          @attr name com.jengluelee.android.easyreceipts:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9776,11 +9776,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleMarginBottom
+          @attr name com.jengluelee.android.easyreceipts:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9792,11 +9792,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleMarginEnd
+          @attr name com.jengluelee.android.easyreceipts:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9808,11 +9808,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleMarginStart
+          @attr name com.jengluelee.android.easyreceipts:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9824,11 +9824,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleMarginTop
+          @attr name com.jengluelee.android.easyreceipts:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9840,21 +9840,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleMargins
+          @attr name com.jengluelee.android.easyreceipts:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleTextAppearance
+          @attr name com.jengluelee.android.easyreceipts:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9865,7 +9865,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:titleTextColor
+          @attr name com.jengluelee.android.easyreceipts:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -9876,9 +9876,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.google.android.gms.samples.vision.barcodereader:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.google.android.gms.samples.vision.barcodereader:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.google.android.gms.samples.vision.barcodereader:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.jengluelee.android.easyreceipts:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.jengluelee.android.easyreceipts:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.jengluelee.android.easyreceipts:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -9903,7 +9903,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9915,11 +9915,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:paddingEnd
+          @attr name com.jengluelee.android.easyreceipts:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9931,17 +9931,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:paddingStart
+          @attr name com.jengluelee.android.easyreceipts:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.google.android.gms.samples.vision.barcodereader:theme
+          @attr name com.jengluelee.android.easyreceipts:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -9951,8 +9951,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.google.android.gms.samples.vision.barcodereader:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.google.android.gms.samples.vision.barcodereader:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.jengluelee.android.easyreceipts:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.jengluelee.android.easyreceipts:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -9968,7 +9968,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -9979,11 +9979,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.google.android.gms.samples.vision.barcodereader:backgroundTint
+          @attr name com.jengluelee.android.easyreceipts:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.google.android.gms.samples.vision.barcodereader.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.jengluelee.android.easyreceipts.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -9999,7 +9999,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.google.android.gms.samples.vision.barcodereader:backgroundTintMode
+          @attr name com.jengluelee.android.easyreceipts:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
